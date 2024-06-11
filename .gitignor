@@ -21,4 +21,4 @@ nb-configuration.xml
 *.iml
 
 ## Directory-based project format:
-.idea/
+*.idea/
